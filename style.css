@@ -12,3 +12,36 @@
 .cabecalho-imagem{
     width: 10%;
     height: 10%;
+}
+
+
+
+
+
+
+
+
+
+.cesb {
+    background-color: aliceblue;
+    color: black;
+    font-size: 24px;
+    padding: 160x 120px;
+}
+.alunos-cesb {
+    padding: 24px 0;
+}
+body {
+    font-family: sans-serif ;
+}
+.div-alunos {
+    text-align: center;
+    padding: 24px 0;
+    background-color: aliceblue;
+}
+.imagem-alunos {
+    width: 360px;
+}
+.titulo-alunos {
+    padding: 16px 0;
+}
